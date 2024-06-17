@@ -143,6 +143,7 @@ if ($result) {
                     <a href="https://www.facebook.com/sohanmessi10"><i class='bx bxl-facebook'></i></a>
                     <a href="https://twitter.com/SohanKafle"><i class='bx bxl-twitter'></i></a>
                     <a href="https://www.instagram.com/sohan_lm10/"><i class='bx bxl-instagram'></i></a>
+                    <a href="https://www.linkedin.com/in/sohan-kafle/"><i class='bx bxl-linkedin'></i></a>
                 </div>
             </div>
         </div>
