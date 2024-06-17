@@ -61,4 +61,5 @@ Please note that it's crucial to change the default password after your initial 
 
 ## License
 
-This project is licensed under the Sohan Kafle.
+This project is licensed under Sohan Kafle.
+&copy; 2023 SohanKafle
