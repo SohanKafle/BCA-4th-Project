@@ -37,7 +37,7 @@ The Car Rental System is a web-based application developed using HTML, PHP and C
 
 ## Getting Started
 
-To get started with the Garbage Complaint System, follow these steps:
+To get started with the Car Rental System, follow these steps:
 
 1. Clone this repository to your local machine.
 
