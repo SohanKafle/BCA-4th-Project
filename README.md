@@ -40,11 +40,8 @@ The Car Rental System is a web-based application developed using HTML, PHP and C
 To get started with the Car Rental System, follow these steps:
 
 1. Clone this repository to your local machine.
-
 2. Set up a web server with PHP support (e.g., Apache, Nginx) and configure it to serve the project files.
-
 3. Import the database schema provided in the project.
-
 4. Run this project as http://localhost/myproject
 
 ## Important Note:
